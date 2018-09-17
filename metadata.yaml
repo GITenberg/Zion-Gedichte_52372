@@ -1,0 +1,26 @@
+_repo: Zion-Gedichte_52372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Becher, Johannes Robert
+    alias: Becher, Johannes R. (Johannes Robert)
+    birthdate: 1891
+    deathdate: 1958
+    gutenberg_agent_id: '38841'
+    url: http://www.gutenberg.org/2009/agents/38841
+    wikipedia: http://de.wikipedia.org/wiki/Johannes_R._Becher
+description: ''
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52372'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Zion: Gedichte'
+url: http://www.gutenberg.org/ebooks/52372
